@@ -10937,7 +10937,7 @@
         gist_id: gistId,
         files: {
           [e]: {
-            filename: `📊 Weekly development breakdown`,
+            filename: `Coding activity`,
             content: i.join("\n")
           }
         }
